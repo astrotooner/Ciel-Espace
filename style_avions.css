@@ -1,10 +1,8 @@
 body {background-repeat : no-repeat; background-position : center center; background-image:url("https://thypix.com/wp-content/uploads/2021/06/clouds-transparent-background-13-700x369.png");
 text-align : center;background-attachment:fixed; background-size: contain; background-color:#29E2FB}
 
-h2{
-font-family: Verdana; font-style: italic; color: dark-blue; width : 500px ;
-margin : auto ;
-}
+h2{font-family: Verdana; font-style: italic; color: dark-blue; width : 500px ;
+margin : auto ;}
 
 
 h1 {
@@ -20,3 +18,11 @@ font-family: Verdana; font-style: italic; color: Black;
 a {
 font-family: Verdana; font-style: italic; color: Black;
 }
+
+
+nav.menu-nav ul li.btn{
+	list-style-type : none;text-align: left; font-family : Calibri; display: inline-block ;
+text-decoration: none ; background-color: #00C9FF}
+
+
+nav {text-decoration: none; }
