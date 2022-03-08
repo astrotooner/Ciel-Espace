@@ -1,0 +1,22 @@
+body {background-repeat : no-repeat; background-position : center center; background-image:url("https://thypix.com/wp-content/uploads/2021/06/clouds-transparent-background-13-700x369.png");
+text-align : center;background-attachment:fixed; background-size: contain; background-color:#29E2FB}
+
+h2{
+font-family: Verdana; font-style: italic; color: dark-blue; width : 500px ;
+margin : auto ;
+}
+
+
+h1 {
+color : Black; font-size : 60px;
+font-weight : bold;
+font-family : Calibri;
+}
+
+li {
+font-family: Verdana; font-style: italic; color: Black;
+}
+
+a {
+font-family: Verdana; font-style: italic; color: Black;
+}
